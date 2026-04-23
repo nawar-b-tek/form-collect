@@ -1,0 +1,6 @@
+{
+  "name": "Echelon Smart Forms",
+  "description": "Secure geospatial intelligence portal for residential and professional data auditing. Features high-performance mapping, real-time flow metrics, and end-to-end encrypted transmission.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["Geospatial Auditing", "Secure Transmission", "Interactive Mapping", "Real-time Metrics"]
+}
